@@ -1,13 +1,13 @@
 # Interpretable Latent Spaces in GANs Using Space-Filling Vector Quantization
 
-This repository contains a demo to test and compare interpretable directions found by our proposed method, GANSpace, and LatentCLR methods in intermediate latent space (W) of StyleGAN2 pretrained on FFHQ dataset. The paper is submitted to ECCV 2024.
+This repository contains a demo to test and compare interpretable directions found by our proposed method, GANSpace, and LatentCLR methods in intermediate latent space (W) of StyleGAN2 pretrained on FFHQ dataset. The paper is submitted to WACV 2025.
 
 # requirements
 Plase install the requirements using the following lines in your terminal window:
 
-`conda create --name eccv2024_sfvq python=3.9`
+`conda create --name wacv2025_sfvq python=3.9`
 
-`conda activate eccv2024_sfvq`
+`conda activate wacv2025_sfvq`
 
 `pip install -r requirments.txt`
 
